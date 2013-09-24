@@ -27,7 +27,7 @@ import (
 
 	"code.google.com/p/goprotobuf/proto"
 
-	pb "github.com/adilhn/groupcache/tree/standalone/groupcachepb"
+	pb "github.com/adilhn/groupcache-expiration/groupcachepb"
 )
 
 // TODO: make this configurable?

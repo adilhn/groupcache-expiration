@@ -30,8 +30,8 @@ import (
 
 	"code.google.com/p/goprotobuf/proto"
 
-	pb "github.com/adilhn/groupcache/tree/standalone/groupcachepb"
-	testpb "github.com/adilhn/groupcache/tree/standalone/testpb"
+	pb "github.com/adilhn/groupcache-expiration/groupcachepb"
+	testpb "github.com/adilhn/groupcache-expiration/testpb"
 )
 
 var (

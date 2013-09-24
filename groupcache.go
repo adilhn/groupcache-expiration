@@ -32,9 +32,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	pb "github.com/adilhn/groupcache/tree/standalone/groupcachepb"
-	"github.com/adilhn/groupcache/tree/standalone/lru"
-	"github.com/adilhn/groupcache/tree/standalone/singleflight"
+	pb "github.com/adilhn/groupcache-expiration/groupcachepb"
+	"github.com/adilhn/groupcache-expiration/lru"
+	"github.com/adilhn/groupcache-expiration/singleflight"
 )
 
 // A Getter loads data for a key.
