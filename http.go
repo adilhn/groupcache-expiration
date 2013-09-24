@@ -27,7 +27,7 @@ import (
 
 	"code.google.com/p/goprotobuf/proto"
 
-	pb "github.com/golang/groupcache/groupcachepb"
+	pb "github.com/adilhn/groupcache/tree/standalone/groupcachepb"
 )
 
 // TODO: make this configurable?
